@@ -10,7 +10,7 @@ import java.io.File;
 import java.util.List;
 
 /**
- * Created by SBT-Zhuravleva-NA on 18.09.2017.
+ * Created by SBT-Zhuravleva-NA on 19.09.2017.
  */
 public class MyProject {
     private static final String driverPass = "src/test/resources/webdrivers";
